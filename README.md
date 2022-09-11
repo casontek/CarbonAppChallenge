@@ -1,4 +1,4 @@
-## Introduction**
+## Introduction
 CarbonAppChallenge is a fully functional Android app, written entirely in kotlin and built to consumme latest news updates from NEWS API Restful Api.
 
 ## Features
