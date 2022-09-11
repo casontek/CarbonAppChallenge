@@ -44,7 +44,6 @@ class NewsAdapter(
                 bundle
             )
         }
-
     }
 
     override fun getItemCount(): Int = articles.size
