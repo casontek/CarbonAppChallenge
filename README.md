@@ -10,3 +10,9 @@ CarbonAppChallenge is a fully functional Android app, written entirely in kotlin
 # Architecture
 
  The `CarbonAppChallenge` app follows the MVVM design pattern for the design implementation
+
+
+## Screenshots
+
+![Screenshot showing For You screen](images/Screenshot_20220911-213635.png "News Article list")
+![Screenshot showing For You screen](images/Screenshot_20220911-213653.png "News Article detail")
